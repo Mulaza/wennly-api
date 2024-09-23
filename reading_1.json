@@ -1,0 +1,119 @@
+{
+  "id": 1,
+  "name": "Reading Test - The Bird",
+  "category": "reading",
+  "description": "Read the passage and answer 10 comprehension questions.",
+  "passage": "The bird flew high into the sky, soaring above the clouds. It was a sunny day, and the bird enjoyed the warm breeze as it glided over the mountains and rivers. Below, the forest stretched for miles, filled with trees and animals. The bird looked down and spotted a nest it had built in the tallest tree in the forest. After a long journey, the bird decided to return to its home, bringing food for its chicks.",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "What did the bird enjoy while flying?",
+      "options": [
+        "The warm breeze",
+        "The cold air",
+        "The rain",
+        "The snow"
+      ],
+      "correct_answer": "The warm breeze"
+    },
+    {
+      "question_id": 2,
+      "question": "Where did the bird fly?",
+      "options": [
+        "Over the ocean",
+        "Over the desert",
+        "Over the mountains and rivers",
+        "Over the city"
+      ],
+      "correct_answer": "Over the mountains and rivers"
+    },
+    {
+      "question_id": 3,
+      "question": "What did the bird spot while flying?",
+      "options": [
+        "A lake",
+        "A nest",
+        "A city",
+        "A river"
+      ],
+      "correct_answer": "A nest"
+    },
+    {
+      "question_id": 4,
+      "question": "What had the bird built in the tallest tree?",
+      "options": [
+        "A nest",
+        "A house",
+        "A treehouse",
+        "A dam"
+      ],
+      "correct_answer": "A nest"
+    },
+    {
+      "question_id": 5,
+      "question": "Why did the bird return home?",
+      "options": [
+        "To sleep",
+        "To escape a storm",
+        "To bring food for its chicks",
+        "To rest"
+      ],
+      "correct_answer": "To bring food for its chicks"
+    },
+    {
+      "question_id": 6,
+      "question": "What was the weather like during the bird's flight?",
+      "options": [
+        "Rainy",
+        "Snowy",
+        "Sunny",
+        "Cloudy"
+      ],
+      "correct_answer": "Sunny"
+    },
+    {
+      "question_id": 7,
+      "question": "What did the bird fly above?",
+      "options": [
+        "The city",
+        "The mountains and rivers",
+        "The ocean",
+        "The desert"
+      ],
+      "correct_answer": "The mountains and rivers"
+    },
+    {
+      "question_id": 8,
+      "question": "How long did the forest stretch?",
+      "options": [
+        "For a few miles",
+        "For a short distance",
+        "For miles",
+        "For kilometers"
+      ],
+      "correct_answer": "For miles"
+    },
+    {
+      "question_id": 9,
+      "question": "What did the bird see below?",
+      "options": [
+        "Animals and trees",
+        "A car and a road",
+        "A house and a garden",
+        "A river and a bridge"
+      ],
+      "correct_answer": "Animals and trees"
+    },
+    {
+      "question_id": 10,
+      "question": "Where did the bird decide to return after its journey?",
+      "options": [
+        "To a new home",
+        "To its friend's house",
+        "To its nest",
+        "To the city"
+      ],
+      "correct_answer": "To its nest"
+    }
+  ]
+}
