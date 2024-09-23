@@ -1,47 +1,79 @@
-
 [
-
-      {
-            "id": 1,
-            "name": "The bird",
-            "category": "reading",
-            "description": "This is the test description"
-      },
-      {
-            "id": 2,
-            "name": "The cat",
-            "category": "writing",
-            "description": "This is the test description"
-      },
-      {
-            "id": 3,
-            "name": "Fast tiger",
-            "category": "vocabulary",
-            "description": "This is the test description"
-      },
-      {
-            "id": 4,
-            "name": "Slow fish",
-            "category": "writing",
-            "description": "This is the test description"
-      },
-      {
-            "id": 5,
-            "name": "Egg plant",
-            "category": "reading",
-            "description": "This is the test description"
-      },
-      {
-            "id": 6,
-            "name": "Backyard",
-            "category": "writing",
-            "description": "This is the test description"
-      },
-      {
-            "id": 7,
-            "name": "Wonder pets",
-            "category": "vocabulary",
-            "description": "This is the test description"
-      }
-
+  {
+    "id": 1,
+    "name": "The bird",
+    "category": "reading",
+    "description": "This is the test description for The Bird. It tests comprehension and attention to detail in reading.",
+    "features": [
+      "Comprehension exercises",
+      "Detailed questions on the text",
+      "Time management skills"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "The cat",
+    "category": "writing",
+    "description": "This is the test description for The Cat. It tests grammar and composition in writing tasks.",
+    "features": [
+      "Grammar check",
+      "Creative writing",
+      "Spelling focus"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Fast tiger",
+    "category": "vocabulary",
+    "description": "This is the test description for Fast Tiger. It focuses on testing vocabulary knowledge and usage.",
+    "features": [
+      "Vocabulary enrichment",
+      "Synonyms and antonyms",
+      "Fill-in-the-blanks exercises"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Slow fish",
+    "category": "writing",
+    "description": "This is the test description for Slow Fish. It tests the ability to construct well-organized written responses.",
+    "features": [
+      "Sentence structure",
+      "Paragraph organization",
+      "Writing clarity"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Egg plant",
+    "category": "reading",
+    "description": "This is the test description for Egg Plant. It challenges reading comprehension and summarization skills.",
+    "features": [
+      "Main idea identification",
+      "Context clues",
+      "Summarizing passages"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Backyard",
+    "category": "writing",
+    "description": "This is the test description for Backyard. It evaluates creative and technical writing skills.",
+    "features": [
+      "Descriptive writing",
+      "Technical writing tasks",
+      "Grammar and punctuation"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Wonder pets",
+    "category": "vocabulary",
+    "description": "This is the test description for Wonder Pets. It focuses on expanding vocabulary and using words in context.",
+    "features": [
+      "Matching definitions",
+      "Vocabulary games",
+      "Context-based questions"
+    ]
+  }
 ]
