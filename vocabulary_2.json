@@ -1,0 +1,118 @@
+{
+  "id": 2,
+  "name": "Vocabulary Test - The Cat",
+  "category": "vocabulary",
+  "description": "Pick the correct word given the definition. There are 10 questions in total.",
+  "questions": [
+    {
+      "question_id": 1,
+      "definition": "A large wild cat with stripes.",
+      "options": [
+        "Lion",
+        "Elephant",
+        "Tiger",
+        "Giraffe"
+      ],
+      "correct_answer": "Tiger"
+    },
+    {
+      "question_id": 2,
+      "definition": "A small domesticated animal often kept as a pet.",
+      "options": [
+        "Dog",
+        "Cat",
+        "Rabbit",
+        "Horse"
+      ],
+      "correct_answer": "Cat"
+    },
+    {
+      "question_id": 3,
+      "definition": "A type of fruit that is red and grows on trees.",
+      "options": [
+        "Banana",
+        "Orange",
+        "Apple",
+        "Grape"
+      ],
+      "correct_answer": "Apple"
+    },
+    {
+      "question_id": 4,
+      "definition": "A tool used for writing or drawing, often made of wood and graphite.",
+      "options": [
+        "Pen",
+        "Brush",
+        "Pencil",
+        "Eraser"
+      ],
+      "correct_answer": "Pencil"
+    },
+    {
+      "question_id": 5,
+      "definition": "A large body of salt water that covers most of the earth's surface.",
+      "options": [
+        "Ocean",
+        "Lake",
+        "River",
+        "Stream"
+      ],
+      "correct_answer": "Ocean"
+    },
+    {
+      "question_id": 6,
+      "definition": "A vehicle with two wheels powered by pedaling.",
+      "options": [
+        "Bicycle",
+        "Car",
+        "Motorcycle",
+        "Train"
+      ],
+      "correct_answer": "Bicycle"
+    },
+    {
+      "question_id": 7,
+      "definition": "A building where books are kept and borrowed.",
+      "options": [
+        "Bookstore",
+        "Library",
+        "Museum",
+        "School"
+      ],
+      "correct_answer": "Library"
+    },
+    {
+      "question_id": 8,
+      "definition": "A soft fabric used to make clothing, often made from sheep’s wool.",
+      "options": [
+        "Silk",
+        "Cotton",
+        "Wool",
+        "Leather"
+      ],
+      "correct_answer": "Wool"
+    },
+    {
+      "question_id": 9,
+      "definition": "A person who treats sick people and helps them get better.",
+      "options": [
+        "Nurse",
+        "Teacher",
+        "Doctor",
+        "Firefighter"
+      ],
+      "correct_answer": "Doctor"
+    },
+    {
+      "question_id": 10,
+      "definition": "A cold, sweet treat that is often served in cones or bowls.",
+      "options": [
+        "Ice cream",
+        "Cake",
+        "Chocolate",
+        "Pie"
+      ],
+      "correct_answer": "Ice cream"
+    }
+  ]
+}
