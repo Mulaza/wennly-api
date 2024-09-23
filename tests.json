@@ -4,25 +4,43 @@
       {
             "id": 1,
             "name": "The bird",
-            "category": "Mcq",
+            "category": "reading",
             "description": "This is the test description"
       },
       {
             "id": 2,
             "name": "The cat",
-            "category": "Vocabulary",
+            "category": "writing",
             "description": "This is the test description"
       },
       {
             "id": 3,
             "name": "Fast tiger",
-            "category": "Writing",
+            "category": "vocabulary",
             "description": "This is the test description"
       },
       {
             "id": 4,
             "name": "Slow fish",
-            "category": "Mcq",
+            "category": "writing",
+            "description": "This is the test description"
+      },
+      {
+            "id": 5,
+            "name": "Egg plant",
+            "category": "reading",
+            "description": "This is the test description"
+      },
+      {
+            "id": 6,
+            "name": "Backyard",
+            "category": "writing",
+            "description": "This is the test description"
+      },
+      {
+            "id": 7,
+            "name": "Wonder pets",
+            "category": "vocabulary",
             "description": "This is the test description"
       }
 
